@@ -9,4 +9,8 @@
 
 ### Hi 👋
 
-My name is Jeferson Machado. I'm software engineer.
+My name is Jeferson Machado. **26 years old**. Graduated in software engineering. 
+
+----
+**Languages and Tools:**  
+--
