@@ -11,7 +11,7 @@
 
 My name is Jeferson Machado. 26 years old. Graduated in software engineering.
 
-I'm currently studying data science (postgraduate studies)
+I'm studying data science (graduate studies) at [@univille](https://www.univille.edu.br)
 
 - 🌱 I’m currently learning C# and data science with python.
 - ⚡ Fun fact: I love going to the gym and play video games. 🎮
