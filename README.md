@@ -9,7 +9,8 @@
 
 ### Hi 👋
 
-My name is Jeferson Machado. 26 years old. Graduated in software engineering. 
+My name is Jeferson Machado. 26 years old. Graduated in software engineering.
+
 I'm currently studying data science (postgraduate studies)
 
 - 🌱 I’m currently learning C# and data science with python.
