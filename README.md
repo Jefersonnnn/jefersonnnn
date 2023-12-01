@@ -15,7 +15,7 @@ Meu nome é Jeferson Machado, tenho 29 anos e tenho formação em Engenharia de 
 
 Aqui está um pouco mais sobre mim:
 
-- 🔬 Tenho entusiasmo por explorar dados para obter insights valiosos e resolver problemas complexos.
+- 🔬 Tenho entusiasmo por explorar dados para obter insights valiosos e resolver problemas.
 - 💪 Quando não estou imerso em códigos, você frequentemente me encontra na academia.
 - 🎮 Também sou um ávido jogador de video games.
 
