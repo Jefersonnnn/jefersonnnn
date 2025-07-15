@@ -9,7 +9,7 @@
 
 ### Olá! 👋
 
-Meu nome é Jeferson Machado, tenho 29 anos e tenho formação em Engenharia de Software e pós-graduação em Ciência de Dados pela [@univille](https://www.univille.edu.br).
+Meu nome é Jeferson Machado, tenho 31 anos e tenho formação em Engenharia de Software e pós-graduação em Ciência de Dados pela [@univille](https://www.univille.edu.br).
 
 🚀 Atualmente, estou focado na aprimoração das minhas habilidades em desenvolvimento de software e tenho um interesse crescente na Ciência de Dados.
 
